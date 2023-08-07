@@ -1,6 +1,6 @@
 # Two-Photon Polymerisation 3D-Printing of Microfluidic Neuronal Culture Devices (Figure)
 
-This repository contains data and scripts to generate figure panels of JoVe publication **"Two-Photon Polymerisation 3D Printing of Microfluidic Neuronal Culture Devices"**, and is archived at zenodo (DOI: ). The followings demonstrates installation and generation of figures, using Julia scripting language.
+This repository contains data and scripts to generate figure panels of JoVe publication **"Two-Photon Polymerisation 3D Printing of Microfluidic Neuronal Culture Devices"**, and is archived at zenodo (DOI: 10.5281/zenodo.8220990). The followings demonstrates installation and generation of figures, using Julia scripting language.
  
 
 ## Example installation for \*nix system:
