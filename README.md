@@ -31,7 +31,7 @@ This repository contains data and scripts to generate figure panels of JoVe publ
 
 ### Authors
 
-- [Ali Hosseini](https://github.com/Amo-127-0-0-1) amo\.iso\@tuta\.io Aug 2023
+- [Ali Hosseini](https://github.com/Amo-127-0-0-1) Aug 2023 amo\.iso\@tuta\.io 
 
 
 ### Support
