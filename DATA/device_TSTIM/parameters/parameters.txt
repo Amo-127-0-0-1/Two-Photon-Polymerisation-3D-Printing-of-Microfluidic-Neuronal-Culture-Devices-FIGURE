@@ -1,0 +1,4 @@
+1300	duration of the recording (ms)
+20	PSTH bin size (ms)
+24	source side, number of recording channels
+24	target side, number of recording channels
